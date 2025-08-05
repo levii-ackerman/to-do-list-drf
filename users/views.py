@@ -82,4 +82,4 @@ class ChangeUserInformationView(UpdateAPIView):
     
 class LoginView(TokenObtainPairView):
     serializer_class = LoginSerializer
-    pagination_class = [AllowAny, ]
+    permission_classes = [AllowAny, ]
