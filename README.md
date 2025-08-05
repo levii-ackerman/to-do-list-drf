@@ -37,7 +37,7 @@ do‘stlar bilan aloqada bo‘lish, eslatmalar olish va tasklarga tag qo‘shish
 
 ### 1. Reponi klon qiling
 ```bash
-git clone https://github.com/username/taskify-drf.git
+git clone https://github.com/levii-ackerman/to-do-list-drf.git)
 cd taskify-drf
 
 
